@@ -1,2 +1,6 @@
-SIO AG Coding Test developer with Laravel framework
-you find the database file in db_file folder , you have to import it to get project working 
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+
+<div align="center">
+<p> - SIO AG Coding Test developed with Laravel framework. </p>
+<p> - You find the database file in db_file folder in the root of the project, it must be imported, to get the coding test working </p>
+</div>
